@@ -2,7 +2,6 @@ This is OpenSIPS Control Panel (OCP), a web application for the
 system provisioning of OpenSIPS SIP server (www.opensips.org)
 
 
-
 OpenSIPS Control Panel is made in the PHP programming language , with a MYSQL/PGSQL using an abstract layer for interfacing with the DB (Pear MDB2) 
 backend. 
 
